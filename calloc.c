@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 // calloc (#, size) --> contiguous allocation
+//a random function to accept player scores 
 int main(){
     
     int number =0;
